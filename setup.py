@@ -14,8 +14,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='Credit Card Fault Detection',
     version='0.0.1',
-    author='aditya',
-    author_email='pratap.aditya2712@gmail.com',
+    author='NANDINI SHARMA',
+    author_email='nandini.sharma2402@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 )
